@@ -13,6 +13,7 @@ Aplikasi menampilkan analisis kombinasi dari:
 Dashboard ini memungkinkan pengguna untuk **menelusuri review pelanggan berdasarkan waktu dan sistem tiket**, serta mendapatkan insight visual untuk pengambilan keputusan.
 
 > Dataset: `final_review_sentiment_nps_ces_csat.csv`
+> Link streamlit: https://customer-satisfaction-sentiment-analysis.streamlit.app
 
 ---
 
